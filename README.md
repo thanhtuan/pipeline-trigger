@@ -6,7 +6,7 @@
 
 # Install commands: 
 cd /home/gitlab-runner  
-git clone https://github.com/thanhtuan/pipeline-trigger.git 
+git clone https://github.com/thanhtuan/pipeline-trigger.git
 ln -s /home/gitlab-runner/pipeline-trigger/trigger.py /usr/local/bin/trigger  
 
 
